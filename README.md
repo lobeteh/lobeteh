@@ -1,4 +1,4 @@
-### Hi there 👋
+# Howdy!
 
 <!--
 **lobeteh/lobeteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://mir-s3-cdn-cf.behance.net/50f91cac3d3985e6dc3ac08d53ecd26f/b5752d86-a640-4a6b-a8f3-64c5840611ac_rwc_0x16x3200x391x3200.jpg" alt="banner of a wolf">
+
+### Es tu diseño, es tu decisión
